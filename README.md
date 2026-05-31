@@ -58,6 +58,7 @@
 | [`Turrets`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/Turrets.rbxl) | Mar-26-2026 |
 | [`April Fools`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/April%20Fools.rbxl) | Apr-01-2026 |
 | [`NEWS`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/NEWS.rbxl) | May-23-2026 |
+| [`NEWS (2)`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/NEWS%20(2).rbxl) | May-31-2026 |
 
 ---
 > Full credit goes to Badimo, the creators of [Jailbreak](https://jb.badimo.org).
