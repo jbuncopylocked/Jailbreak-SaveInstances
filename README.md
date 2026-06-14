@@ -1,4 +1,4 @@
-# **Jailbreak SaveInstances** <br> [![Years](https://img.shields.io/badge/From-2022--now-red)](https://github.com/jbuncopylocked/Jailbreak-SaveInstances) [![Total](https://img.shields.io/badge/Total%20files-32-blue)](#contents) [![JBU](https://img.shields.io/badge/discord.gg-a4FeEk5R3E-5765f2?logo=discord)](https://discord.gg/a4FeEk5R3E)
+# **Jailbreak SaveInstances** <br> [![DSC](https://img.shields.io/badge/.gg/a4FeEk5R3E-2c3376?logo=discord)](https://discord.gg/a4FeEk5R3E) [![YT](https://img.shields.io/badge/@jbuncopylocked-fb0101?logo=youtube)](https://youtube.com/@jbuncopylocked) [![X](https://img.shields.io/badge/@jbuncopylocked-000000?logo=x)](https://x.com/jbuncopylocked) [![RBLX](https://img.shields.io/badge/@BadimoForgottenDev-3156ff?logo=roblox)](https://www.roblox.com/users/4327200522/profile)
 - Some Jailbreak place files that I have saved over time!
 - This repo was originally created to store large files due to Discord 10MB file size limit - but it now has everything.
 
@@ -59,6 +59,10 @@
 | [`April Fools`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/April%20Fools.rbxl) | Apr-01-2026 |
 | [`NEWS`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/NEWS.rbxl) | May-23-2026 |
 | [`NEWS (2)`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/NEWS%20(2).rbxl) | May-31-2026 |
+| [`INFO`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/INFO.rbxl) | Jun-04-2026 |
+| [`SATURDAY`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/SATURDAY.rbxl) | Jun-10-2026 |
+| [`<1 HOUR`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/%3C1%20HOUR.rbxl) | Jun-13-2026 |
+| [`CH 4`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/CH%204.rbxl) | Jun-14-2026 |
 
 ---
-> Full credit goes to Badimo, the creators of [Jailbreak](https://jb.badimo.org).
+<h6><em> Full credit goes to Badimo, the creators of <a href="https://jb.badimo.org">Jailbreak </a>.</em></h6>
