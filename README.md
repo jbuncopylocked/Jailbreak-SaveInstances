@@ -69,4 +69,4 @@
 | [`REPLAY`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/REPLAY.rbxl) | Jun-22-2026 |
 
 ---
-<h6><em> Full credit goes to Badimo, the creators of <a href="https://jb.badimo.org">Jailbreak </a>.</em></h6>
+<h6><em> Full credit goes to Badimo, the creators of <a href="https://jb.badimo.org">Jailbreak</a>.</em></h6>
