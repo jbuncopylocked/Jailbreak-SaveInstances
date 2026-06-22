@@ -63,6 +63,8 @@
 | [`SATURDAY`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/SATURDAY.rbxl) | Jun-10-2026 |
 | [`<1 HOUR`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/%3C1%20HOUR.rbxl) | Jun-13-2026 |
 | [`CH 4`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/CH%204.rbxl) | Jun-14-2026 |
+| [`Replays`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/Replays.rbxl) | Jun-18-2026 |
+| [`REPLAY`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/REPLAY.rbxl) | Jun-22-2026 |
 
 ---
 <h6><em> Full credit goes to Badimo, the creators of <a href="https://jb.badimo.org">Jailbreak </a>.</em></h6>
