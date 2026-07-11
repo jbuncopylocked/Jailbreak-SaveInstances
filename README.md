@@ -3,70 +3,110 @@
 - This repo was originally created to store large files due to Discord 10MB file size limit - but it now has everything.
 
 ## **Contents**
-- This repository's contents are organized by year for your comfort.
-  
-### **2022**
+> This repository's contents are organized by year for your comfort.
+
+<details>
+<summary><h3>2022</h3></summary>
 
 | Update | Save Date |
 | :- | :-: |
 | [`Season 12`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2022/Season%2012.rbxl) | Oct-10-2022 |
+| | |
 | [`5 Days of Vehicles`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2022/5%20Days%20of%20Vehicles.rbxl) | Nov-09-2022 |
 
-### **2023**
+</details>
+
+<details>
+<summary><h3>2023</h3></summary>
+
 | Update | Save Date |
 | :- | :-: |
 | [`Season 14`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2023/Season%2014.rbxl) | Feb-11-2023 |
+| | |
 | [`Crew Battles`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2023/Crew%20Battles.rbxl) | Mar-05-2023 |
 | [`NASCAR`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2023/NASCAR.rbxl) | Mar-11-2023 |
+| | |
 | [`Season 15`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2023/Season%2015.rbxl) | Apr-19-2023 |
+| | |
 | [`Dream Homes`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2023/Dream%20Homes.rbxl) | May-03-2023 |
 
-### **2024**
+</details>
+
+<details>
+<summary><h3>2024</h3></summary>
+
 | Update | Save Date |
 | :- | :-: |
 | [`Season 20`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2024/Season%2020.rbxl) | Feb-18-2024 |
+| | |
 | [`Rewind`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2024/Rewind.rbxl) | May-07-2024 |
 | **Subplaces:** | |
 [`OG`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2024/OG.rbxl) | May-07-2024 |
 
-### **2025**
+</details>
+
+<details>
+<summary><h3>2025</h3></summary>
+
 | Update | Save Date |
 | :- | :-: |
 | [`Season 26`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2025/Season%2026.rbxl) | May-14-2025 |
 | [`Walmart`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2025/Walmart.rbxl) | May-15-2025 |
+| | |
 | [`Season 27`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2025/Season%2027.rbxl) | Jun-28-2025 |
+| | |
 | [`The Hatch`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2025/The%20Hatch.rbxl) | Jul-07-2025 |
+| | |
 | [`Season 28`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2025/Season%2028.rbxl) | Sep-01-2025 |
+| | |
 | [`The Epic Update`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2025/The%20Epic%20Update.rbxl) | Oct-24-2025 |
 | [`Fall`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2025/Fall.rbxl) | Oct-25-2025 |
+| | |
 | [`Military`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2025/Military.rbxl) | Nov-16-2025 |
 | [`Jewel`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2025/Jewel.rbxl) | Nov-22-2025 |
+| | |
 | [`BIONIC`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2025/BIONIC.rbxl) | Dec-06-2025 |
 | [`Winter`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2025/Winter.rbxl) | Dec-21-2025 |
 | **Subplaces:** | |
 | [`Trading #1`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2025/Subplaces/Trading%20%231.rbxl) | Jul-13-2025 |
 | [`Ban Jail`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2025/Subplaces/Ban%20Jail.rbxl) | Jul-16-2025 |
+| | |
 | [`Trading #2`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2025/Subplaces/Trading%20%232.rbxl) | Dec-22-2025 |
-### **2026**
+
+</details>
+
+<details>
+<summary><h3>2026</h3></summary>
+
 | Update | Save Date |
 | :- | :-: |
 | [`Game Cleanup`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/Game%20Cleanup.rbxl) | Jan-04-2026 |
 | [`Bank Revamp`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/Bank%20Revamp.rbxl) | Jan-20-2026 |
 | [`Bank Truck Revamp`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/Bank%20Truck%20Revamp.rbxl) | Jan-25-2026 |
 | [`Base Security`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/Base%20Security.rbxl) | Jan-31-2026 |
+| | |
 | [`Forcefields`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/Forcefields.rbxl) | Feb-09-2026 |
 | [`Forcefields (Night)`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/Forcefields_Night.rbxl) / <br> [`Forcefields (Rain)`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/Forcefields_Rain.rbxl) | Feb-10-2026 |
 | [`Season 31`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/Season%2031.rbxl) | Feb-22-2026 |
+| | |
 | [`Turrets`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/Turrets.rbxl) | Mar-26-2026 |
+| | |
 | [`April Fools`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/April%20Fools.rbxl) | Apr-01-2026 |
+| | |
 | [`NEWS`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/NEWS.rbxl) | May-23-2026 |
 | [`NEWS (2)`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/NEWS%20(2).rbxl) | May-31-2026 |
+| | |
 | [`INFO`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/INFO.rbxl) | Jun-04-2026 |
 | [`SATURDAY`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/SATURDAY.rbxl) | Jun-10-2026 |
 | [`<1 HOUR`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/%3C1%20HOUR.rbxl) | Jun-13-2026 |
 | [`CH 4`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/CH%204.rbxl) | Jun-14-2026 |
 | [`Replays`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/Replays.rbxl) | Jun-18-2026 |
 | [`REPLAY`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/REPLAY.rbxl) | Jun-22-2026 |
+| | |
+| [`Mini Update`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/Mini%20Update.rbxl) | July-11-2026 |
+
+</details>
 
 ---
+
 <h6><em> Full credit goes to Badimo, the creators of <a href="https://jb.badimo.org">Jailbreak</a>.</em></h6>
