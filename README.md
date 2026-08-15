@@ -103,7 +103,9 @@
 | [`Replays`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/Replays.rbxl) | Jun-18-2026 |
 | [`REPLAY`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/REPLAY.rbxl) | Jun-22-2026 |
 | | |
-| [`Mini Update`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/Mini%20Update.rbxl) | July-11-2026 |
+| [`Mini Update`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/Mini%20Update.rbxl) | Jul-11-2026 |
+| | |
+| [`Season 33`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/Season%2033.rbxl) | Aug-15-2026 |
 
 </details>
 
