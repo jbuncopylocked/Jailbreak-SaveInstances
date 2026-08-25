@@ -3,7 +3,7 @@
 - This repo was originally created to store large files due to Discord 10MB file size limit - but it now has everything.
 
 ## **Contents**
-> This repository's contents are organized by year for your comfort.
+- This repository's contents are organized by year for your comfort.
 
 <details>
 <summary><h3>2022</h3></summary>
@@ -111,4 +111,4 @@
 
 ---
 
-<h6><em> Full credit goes to Badimo, the creators of <a href="https://jb.badimo.org">Jailbreak</a>.</em></h6>
+> <h6><em> Full credit goes to Badimo, the creators of <a href="https://jb.badimo.org">Jailbreak</a>.</em></h6>
