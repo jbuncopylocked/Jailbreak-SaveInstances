@@ -106,6 +106,8 @@
 | [`Mini Update`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/Mini%20Update.rbxl) | Jul-11-2026 |
 | | |
 | [`Season 33`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/Season%2033.rbxl) | Aug-15-2026 |
+|||
+| [`The Hunt: Roblox 20`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/The%20Hunt%20Roblox%2020.rbxl) | Sep-19-2026 |
 
 </details>
 
