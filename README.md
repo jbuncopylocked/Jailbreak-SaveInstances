@@ -1,6 +1,6 @@
 # **Jailbreak SaveInstances** <br> [![DSC](https://img.shields.io/badge/.gg/a4FeEk5R3E-2c3376?logo=discord)](https://discord.gg/a4FeEk5R3E) [![YT](https://img.shields.io/badge/@jbuncopylocked-fb0101?logo=youtube)](https://youtube.com/@jbuncopylocked) [![X](https://img.shields.io/badge/@jbuncopylocked-000000?logo=x)](https://x.com/jbuncopylocked) [![RBLX](https://img.shields.io/badge/@BadimoForgottenDev-3156ff?logo=roblox)](https://www.roblox.com/users/4327200522/profile)
 - Some Jailbreak place files that I have saved over time!
-- This repo was originally created to store large files due to Discord 10MB file size limit - but it now has everything.
+- This was originally created to store large files due to Discord 10MB file size limit - but it now has everything.
 
 ## **Contents**
 - This repository's contents are organized by year for your comfort.
@@ -108,6 +108,10 @@
 | [`Season 33`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/Season%2033.rbxl) | Aug-15-2026 |
 |||
 | [`The Hunt: Roblox 20`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/The%20Hunt%20Roblox%2020.rbxl) | Sep-19-2026 |
+| [`The Hunt Roblox 20_Quest`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/The%20Hunt%20Roblox%2020_Quest.rbxl) | Sep-27-2026 |
+| [`The Hunt Roblox 20_Secret Quest`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/The%20Hunt%20Roblox%2020_Secret%20Quest.rbxl) | Sep-27-2026 |
+|||
+| [`Fall`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/Fall.rbxl) | Oct-31-2026 |
 
 </details>
 
