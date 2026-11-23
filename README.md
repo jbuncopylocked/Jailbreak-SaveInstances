@@ -112,6 +112,8 @@
 | [`The Hunt Roblox 20_Secret Quest`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/The%20Hunt%20Roblox%2020_Secret%20Quest.rbxl) | Sep-27-2026 |
 |||
 | [`Fall`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/Fall.rbxl) | Oct-31-2026 |
+|||
+| [`The Takeback`](https://github.com/jbuncopylocked/Jailbreak-SaveInstances/raw/main/2026/The%20Takeback.rbxl) | Nov-22-2026 |
 
 </details>
 
